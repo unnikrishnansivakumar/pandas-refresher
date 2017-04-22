@@ -1,0 +1,14 @@
+"total_bill","tip","sex","smoker","day","time","size","tip_pct"
+22,1.232,"F","No","Sun","Dinner",2,0.056
+21.3,3.408,"M","No","Sun","Dinner",3,0.16
+12,1.68,"M","No","Sun","Dinner",1,0.14
+67,11.39,"M","No","Sun","Dinner",4,0.17
+11,1.078,"F","No","Sun","Dinner",3,0.098
+22,2.464,"M","No","Sun","Dinner",4,0.112
+11,1.43,"F","Yes","Sat","Lunch",2,0.13
+34,4.25,"M","Yes","Sat","Lunch",3,0.125
+23,3.795,"M","Yes","Sat","Lunch",2,0.165
+45,8.415,"M","Yes","Sat","Lunch",6,0.187
+23,2.53,"F","Yes","Sat","Lunch",3,0.11
+98,22.54,"M","Yes","Sat","Lunch",1,0.23
+11,1.21,"F","Yes","Sat","Lunch",2,0.11

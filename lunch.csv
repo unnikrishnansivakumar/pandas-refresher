@@ -1,0 +1,14 @@
+time,smoker,sex,total_bill,tip,day,size,tip_pct
+Dinner,No,F,22.0,1.232,Sun,2,0.056
+Dinner,No,M,21.3,3.408,Sun,3,0.16
+Dinner,No,M,12.0,1.68,Sun,1,0.14
+Dinner,No,M,67.0,11.39,Sun,4,0.17
+Dinner,No,F,11.0,1.078,Sun,3,0.098
+Dinner,No,M,22.0,2.464,Sun,4,0.112
+Lunch,Yes,F,11.0,1.43,Sat,2,0.13
+Lunch,Yes,M,34.0,4.25,Sat,3,0.125
+Lunch,Yes,M,23.0,3.795,Sat,2,0.165
+Lunch,Yes,M,45.0,8.415,Sat,6,0.187
+Lunch,Yes,F,23.0,2.53,Sat,3,0.11
+Lunch,Yes,M,98.0,22.54,Sat,1,0.23
+Lunch,Yes,F,11.0,1.21,Sat,2,0.11
